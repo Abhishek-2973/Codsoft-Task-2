@@ -1,9 +1,9 @@
-# 🤖 Codsoft Task 1
+# 🤖 Codsoft Task 2
 
 # Personal Portfolio Website 
  modern, responsive personal portfolio website built using **HTML, CSS, and JavaScript** to showcase my skills, projects, and experience. This website acts as an online resume and helps visitors learn more about me and my work.**CodSoft internship**.
 
-🔗 **Live Demo:** [codsodt-ts1.netlify.app](https://codsodt-ts1.netlify.app/)
+🔗 **Live Demo:** [codsodt-ts1.netlify.app](https://codsodt-ts2.netlify.app/)
 
 ---
 
